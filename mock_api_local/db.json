@@ -1,0 +1,96 @@
+{
+  "users": [
+    {
+      "email": "quangnd@rikkeisoft.com",
+      "password": "$2a$10$0Ryff9lIKRKrktFLzz20R.DigeQQgt3m4suupTf8Zv6Zd1IBFcroG",
+      "fullname": "Nguyễn Duy Quang",
+      "id": 1
+    },
+    {
+      "email": "quangnd2@rikkeisoft.com",
+      "password": "$2a$10$MTBjLFEnYcXrhQBSobVdW.zxtJWtILHDCQ6y04i.ZW45Fv.Tu1Z5m",
+      "fullname": "Nguyễn Duy Quang",
+      "id": 2
+    },
+    {
+      "email": "hatcomdeo1315@gmail.com",
+      "password": "$2a$10$B0W.mArki1fozdVVdzaKverNaaSox9RmCLLYfWcYT5Dw2u/.7wRRO",
+      "fullName": "abc",
+      "id": 3
+    },
+    {
+      "email": "1223@gmail.com",
+      "password": "$2a$10$H8IDhed4DDLZVnqy.Q4ft.zDrSHCcAJXMYN7IaVLt9kwTaCZ/9m/e",
+      "fullName": "Nguyen Van A",
+      "id": 4
+    },
+    {
+      "email": "quangndhn84@gmail.com",
+      "password": "$2a$10$9eK0fqm4vi8upO4NIRmzFuVn6aSi1AZF8bamgjOdAUk0NPixD5oeC",
+      "fullName": "Nguyễn Duy Quang",
+      "id": 5
+    },
+    {
+      "email": "123@gmail.com",
+      "password": "$2a$10$p20j0JwbZDRGG3wJIikizOGFCpxKow95rhJkKIHAcKogSyrd0yUNm",
+      "fullName": "Nguyen Van A",
+      "id": 6
+    },
+    {
+      "email": "minhthoa@gmail.com",
+      "password": "$2a$10$wTtkzXUTgEnB0dHX0ZqgxOcd.fVAT6OaLWyeJymCIwKXnzo22tsMe",
+      "fullName": "Nguyễn Thị Minh Thoa",
+      "id": 7
+    },
+    {
+      "email": "thanh@gmail.com",
+      "password": "$2a$10$HizBAHwSjmWpBlkRFkPIreKjHzRsOMyB/2tnzfaHrtFk5kD54qpga",
+      "fullName": "Nguyễn Văn Thanh",
+      "id": 8
+    },
+    {
+      "email": "VietAnh@gmail.com",
+      "password": "$2a$10$GHh6W0V71IMM179CSVCchO/qlnG5CMiS2tapD1YIiR30VvgpB6YQe",
+      "fullName": "Nguyễn Việt Anh",
+      "id": 9
+    },
+    {
+      "email": "quangnd@gmail.com",
+      "password": "$2a$10$JFiiPRC3X5Br1rXV8y65Sur0sgoTLrs9awOwX1v2Ujw5dg..xd8Ii",
+      "fullName": "Nguyễn Duy Quang",
+      "id": 10
+    },
+    {
+      "email": "hatcomdeo1315111@gmail.com",
+      "password": "$2a$10$sQgFF4rMC3swQsaIngz9dOtlke3CeqrdZwlgGIzFPSM8wEv07Dc/q",
+      "fullName": "Nguyễn Duy Quang",
+      "id": 11
+    },
+    {
+      "email": "maixinh@gmail.com",
+      "password": "$2a$10$NhgaLSKZuIf1V3.cipWW7ucL3dGZJOv3VcBIIs5lo7yO/1gkI4GBa",
+      "fullName": "Nguyễn Thị Ngọc Mai",
+      "id": 12
+    },
+    {
+      "email": "1234@gmail.com",
+      "password": "$2a$10$2VTsdXgYMwf7vcvm1zmbD.vgUL3kTc2ZHubSNmnCxvZCnbHdbt/qC",
+      "fullName": "abc",
+      "id": 13
+    }
+  ],
+  "students": [
+    {
+      "studentId": "SV001",
+      "studentName": "Nguyễn Văn A",
+      "age": 20,
+      "status": true
+    },
+    {
+      "studentId": "SV002",
+      "studentName": "Nguyễn Văn B",
+      "age": 22,
+      "status": false
+    }
+  ]
+}
